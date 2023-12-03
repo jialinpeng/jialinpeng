@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi! 👋 I'm 贾林鹏 (Linpeng Jia & stormpang).
 
-<!--
-**jialinpeng/jialinpeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 **Education**
 
-Here are some ideas to get you started:
+* Ph.D from 📬 Institute of Computing Technology (ICT), Chinese Academy of Sciences ([中国科学院计算技术研究所](http://www.ict.ac.cn/))
+* Graduated 🎓 in 2023.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 **Work Experience**
+
+* 2023.06-, Assistant Researcher, Institute of Computing Technology ([ICT](http://www.ict.ac.cn/)), Chinese Academy of Sciences
+
+### 🔭 **Research Interests**
+
+* Blockchain
+* Consensus
+* Layer-2
+
+### 🌐 **Links**
+
+* [Google Scholar](https://scholar.google.com/citations?user=03jw1vAAAAAJ)
+* [ORCID](https://orcid.org/0000-0003-1916-6193)
+
