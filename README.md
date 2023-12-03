@@ -2,12 +2,12 @@
 
 ### 🎓 **Education**
 
-* Ph.D from <img src="imgs/ICT.png" style="zoom:4%;" /> Institute of Computing Technology (ICT), Chinese Academy of Sciences ([中国科学院计算技术研究所](http://www.ict.ac.cn/))
+* Ph.D from <img src="imgs/ICT.png" style="height: 20px;" /> Institute of Computing Technology (ICT), Chinese Academy of Sciences ([中国科学院计算技术研究所](http://www.ict.ac.cn/))
 * Graduated 🎓 in 2023.
 
 ### 💼 **Work Experience**
 
-* 2023.06-, Assistant Researcher, <img src="imgs/ICT.png" style="zoom:4%;" /> Institute of Computing Technology ([ICT](http://www.ict.ac.cn/)), Chinese Academy of Sciences
+* 2023.06-, Assistant Researcher, <img src="imgs/ICT.png" style="height: 20px;" /> Institute of Computing Technology ([ICT](http://www.ict.ac.cn/)), Chinese Academy of Sciences
 
 ### 🔭 **Research Interests**
 
