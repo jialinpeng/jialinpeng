@@ -19,3 +19,4 @@
 
 * <img src="imgs/scholar.png" style="height: 20px;" /> [Google Scholar](https://scholar.google.com/citations?user=03jw1vAAAAAJ) 
 * <img src="imgs/ORCID.png" style="height: 20px;" /> [ORCID](https://orcid.org/0000-0003-1916-6193) 
+* <img src="imgs/ResearchGate.png" style="height: 20px;" />[ResearchGate](https://www.researchgate.net/profile/Linpeng-Jia)
