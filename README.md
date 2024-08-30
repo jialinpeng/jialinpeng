@@ -7,7 +7,7 @@
 
 ### 💼 **Work Experience**
 
-* 2023.06-, Assistant Researcher, <img src="imgs/ICT.png" style="height: 20px;" /> Institute of Computing Technology ([ICT](http://www.ict.ac.cn/)), Chinese Academy of Sciences
+* 2023.06-, Assistant Researcher (Special Research Assistant, Postdoc), <img src="imgs/ICT.png" style="height: 20px;" /> Institute of Computing Technology ([ICT](http://www.ict.ac.cn/)), Chinese Academy of Sciences
 
 ### 🔭 **Research Interests**
 
