@@ -11,13 +11,19 @@
 
 ### 🔭 **Research Interests**
 
-* Blockchain
+* Blockchain Sharding
+* Cross-chain
 * Consensus
 * Layer-2
+
+### 💻 **Research Funding**
+
+-   PI, Multi-Chain Interoperability in Open Blockchain Networks, National Key Research and Development Program of China, 2023.12-2026.11.
+-   PI, Blockchain Transaction Processing Protocols with Deadline Constraints, Open Research Fund of The State Key Laboratory of Blockchain and Data Security (Zhejiang University), 2024.06-2026.05.
 
 ### 🌐 **Links**
 
 * <img src="imgs/scholar.png" style="height: 20px;" /> [Google Scholar](https://scholar.google.com/citations?user=03jw1vAAAAAJ) 
 * <img src="imgs/ORCID.png" style="height: 20px;" /> [ORCID](https://orcid.org/0000-0003-1916-6193) 
 * <img src="imgs/ResearchGate.png" style="height: 20px;" />[ResearchGate](https://www.researchgate.net/profile/Linpeng-Jia)
-* <img src="https://upload.wikimedia.org/wikipedia/zh/4/46/Sina_Weibo_logo.svg" style="width:25px;height:20px;" />[weibo（微博）](https://weibo.com/u/3853847834)
+* <img src="https://upload.wikimedia.org/wikipedia/zh/4/46/Sina_Weibo_logo.svg" style="width:25px;height:20px;" />[weibo（微博）](https://weibo.com/u/3853847834) 
