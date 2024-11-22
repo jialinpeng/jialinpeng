@@ -12,7 +12,7 @@
 ### 🔭 **Research Interests**
 
 * Blockchain Sharding
-* Cross-chain
+* Cross-Chain
 * Consensus
 * Layer-2
 
