@@ -2,7 +2,7 @@
 
 ### 🎓 **Education**
 
-* Ph.D from <img src="imgs/ICT.png" style="height: 20px;" /> Institute of Computing Technology (ICT), Chinese Academy of Sciences ([中国科学院计算技术研究所](http://www.ict.ac.cn/))[[Thesis]](thesis/贾林鹏_区块链高通量分片技术研究_博士论文.pdf)
+* Ph.D from <img src="imgs/ICT.png" style="height: 20px;" /> Institute of Computing Technology (ICT), Chinese Academy of Sciences ([中国科学院计算技术研究所](http://www.ict.ac.cn/))[[Thesis]](http://dx.doi.org/10.13140/RG.2.2.17677.35046)
 * Graduated 🎓 in 2023.
 
 ### 💼 **Work Experience**
