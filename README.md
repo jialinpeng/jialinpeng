@@ -15,6 +15,7 @@
 * Cross-Chain
 * Consensus
 * Layer-2
+* Federated Learning
 
 ### 💻 **Research Funding**
 
