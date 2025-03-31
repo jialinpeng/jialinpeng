@@ -17,7 +17,7 @@
 * Layer-2
 * Federated Learning
 
-### 💻 **Research Funding**
+### 💻 **Grants**
 
 -   PI. Multi-Chain Interoperability in Open Blockchain Networks. National Key Research and Development Program of China, 2023.12-2026.11.
 -   PI. Blockchain Transaction Processing Protocols with Deadline Constraints. Open Research Fund of The State Key Laboratory of Blockchain and Data Security (Zhejiang University), 2024.06-2026.05.
