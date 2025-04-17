@@ -11,10 +11,7 @@
 
 ### 🔭 **Research Interests**
 
-* Blockchain Sharding
-* Cross-Chain
-* Consensus
-* Layer-2
+* Blockchain
 * Federated Learning
 
 ### 💻 **Grants**
