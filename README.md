@@ -22,5 +22,5 @@
 
 ### 🌐 **Links**
 
-| [Google Scholar](https://scholar.google.com/citations?user=03jw1vAAAAAJ) | [ORCID](https://orcid.org/0000-0003-1916-6193) | [ResearchGate](https://www.researchgate.net/profile/Linpeng-Jia) | [weibo](https://weibo.com/u/3853847834) |
-| ------------------------------------------------------------ | ---------------------------------------------- | ------------------------------------------------------------ | ----------------------------------------------- |
+| [Google Scholar](https://scholar.google.com/citations?user=03jw1vAAAAAJ) | [ORCID](https://orcid.org/0000-0003-1916-6193) | [DBLP](https://dblp.org/pid/331/4224.html)     | [ResearchGate](https://www.researchgate.net/profile/Linpeng-Jia) | [weibo](https://weibo.com/u/3853847834) |
+| ------------------------------------------------------------ | ---------------------------------------------- | ---- | ------------------------------------------------------------ | --------------------------------------- |
