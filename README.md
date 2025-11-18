@@ -7,8 +7,8 @@
 
 ### 💼 **Work Experience**
 
-* 2025.10-, Associate Researcher, Institute of Computing Technology ([ICT](http://english.ict.cas.cn/)), Chinese Academy of Sciences
-* 2023.06-2025.09, Assistant Researcher (Special Research Assistant, Postdoc), Institute of Computing Technology ([ICT](http://english.ict.cas.cn/)), Chinese Academy of Sciences
+* 2025.10-, Associate Professor, Institute of Computing Technology ([ICT](http://english.ict.cas.cn/)), Chinese Academy of Sciences
+* 2023.06-2025.09, Assistant Professor (Special Research Assistant, Postdoc), Institute of Computing Technology ([ICT](http://english.ict.cas.cn/)), Chinese Academy of Sciences
 
 ### 🔭 **Research Interests**
 
