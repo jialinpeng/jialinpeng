@@ -26,5 +26,5 @@
 | [Google Scholar](https://scholar.google.com/citations?user=03jw1vAAAAAJ) | [ORCID](https://orcid.org/0000-0003-1916-6193) | [DBLP](https://dblp.org/pid/331/4224.html) | [ResearchGate](https://www.researchgate.net/profile/Linpeng-Jia) | [weibo](https://weibo.com/u/3853847834) |
 | ------------------------------------------------------------ | ---------------------------------------------- | ------------------------------------------ | ------------------------------------------------------------ | --------------------------------------- |
 
-|                                                                     [ICT Homepage](https://www.ict.ac.cn/sourcedb/cn/jssrck/202512/t20251208_8023729.html)|
-| ------------------------------------------------------------ |
+| [ICT Homepage](https://www.ict.ac.cn/sourcedb/cn/jssrck/202512/t20251208_8023729.html) |  [UCAS Homepage](https://people.ucas.edu.cn/~stormpang)      |
+| ------------------------------------------------------------ | ---- |
