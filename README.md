@@ -13,7 +13,8 @@
 ### 🔭 **Research Interests**
 
 * Blockchain
-* Federated Learning
+* Privacy-Preserving Computation
+* AI Agent
 
 ### 💻 **Grants**
 
