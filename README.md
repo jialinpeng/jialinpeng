@@ -2,7 +2,7 @@
 
 ### 🎓 **Education**
 
-* Ph.D from Institute of Computing Technology ([ICT](http://english.ict.cas.cn/)), Chinese Academy of Sciences ([中国科学院计算技术研究所](http://www.ict.ac.cn/))[[Thesis]](http://dx.doi.org/10.13140/RG.2.2.17677.35046)
+* Ph.D from Institute of Computing Technology ([ICT](http://english.ict.cas.cn/)), Chinese Academy of Sciences ([中国科学院计算技术研究所](http://www.ict.ac.cn/)) [:page_with_curl:](http://dx.doi.org/10.13140/RG.2.2.17677.35046)
 * Graduated 🎓 in 2023.
 
 ### 💼 **Work Experience**
@@ -21,6 +21,12 @@
 -   PI. Multi-Chain Interoperability in Open Blockchain Networks. National Key Research and Development Program of China, 2023.12-2026.11.
 -   Co-PI. Privacy Protection Mechanisms for Multi-Subject, Cross-Domain, and Multi-Source Traffic Data. National Key Research and Development Program of China, 2024.12-2027.11.
 -   PI. Blockchain Transaction Processing Protocols with Deadline Constraints. Open Research Fund of The State Key Laboratory of Blockchain and Data Security (Zhejiang University), 2024.06-2026.05.
+
+### :trophy: **Awards**
+
+- [Distinguished Paper (Chinese) in the Field of Blockchain Technology in China for the Year 2024](https://mp.weixin.qq.com/s/vv26eQJAQapmhqT_-oOwCA) (One Paper per Year, First Author) ​[:page_facing_up:](https://www.jos.org.cn/jos/article/abstract/7174)​
+- [BlockSys’2026](https://blocksys.info/2026/) Best Paper Award (CCF-C, 3/190) ​[:page_facing_up:](https://arxiv.org/abs/2606.22934)​
+- [UTI’2026](https://mp.weixin.qq.com/s/GuBf08S0ehACA4jlRhTkrw) Best Paper Award ​[:page_facing_up:](https://dl.acm.org/doi/abs/10.1145/3774904.3792469)​
 
 ### 🌐 **Links**
 
