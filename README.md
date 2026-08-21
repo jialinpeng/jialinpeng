@@ -35,3 +35,9 @@
 
 | [ICT Homepage](https://www.ict.ac.cn/sourcedb/cn/jssrck/202512/t20251208_8023729.html) | [UCAS Homepage](https://people.ucas.edu.cn/~stormpang) |
 | ------------------------------------------------------------ | ------------------------------------------------------ |
+
+<div align="center">
+    <a href="https://info.flagcounter.com/daM6">
+      <img src="https://s01.flagcounter.com/count2/daM6/bg_FFFFFF/txt_000000/border_FFFFFF/columns_4/maxflags_12/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0">
+    </a>
+</div>
