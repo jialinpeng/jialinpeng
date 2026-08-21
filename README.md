@@ -28,11 +28,10 @@
 - [BlockSys’2026](https://blocksys.info/2026/) Best Paper Award (CCF-C, 3/190) ​[:page_facing_up:](https://arxiv.org/abs/2606.22934)​
 - [UTI’2026](https://mp.weixin.qq.com/s/GuBf08S0ehACA4jlRhTkrw) Best Paper Award ​[:page_facing_up:](https://dl.acm.org/doi/abs/10.1145/3774904.3792469)​
 
-### 🌐 **Links** ![visitors](https://visitor-badge.laobi.icu/badge?page_id=stormpang&left_text=Visitors&left_color=%23575757&right_color=%230580B8)
+### 🌐 **Links** 
 
 | [Google Scholar](https://scholar.google.com/citations?user=03jw1vAAAAAJ) | [ORCID](https://orcid.org/0000-0003-1916-6193) | [DBLP](https://dblp.org/pid/331/4224.html) | [ResearchGate](https://www.researchgate.net/profile/Linpeng-Jia) | [weibo](https://weibo.com/u/3853847834) |
 | ------------------------------------------------------------ | ---------------------------------------------- | ------------------------------------------ | ------------------------------------------------------------ | --------------------------------------- |
 
-| [ICT Homepage](https://www.ict.ac.cn/sourcedb/cn/jssrck/202512/t20251208_8023729.html) | [UCAS Homepage](https://people.ucas.edu.cn/~stormpang) |
-| ------------------------------------------------------------ | ------------------------------------------------------ |
-
+| [ICT Homepage](https://www.ict.ac.cn/sourcedb/cn/jssrck/202512/t20251208_8023729.html) | [UCAS Homepage](https://people.ucas.edu.cn/~stormpang) | ![visitors](https://visitor-badge.laobi.icu/badge?page_id=stormpang&left_text=Visitors&left_color=%23575757&right_color=%230580B8) |
+| ------------------------------------------------------------ | ------------------------------------------------------ | ------------------------------------------------------------ |
