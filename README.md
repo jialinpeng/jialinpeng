@@ -13,8 +13,8 @@
 ### 🔭 **Research Interests**
 
 * Blockchain
-* Privacy-Preserving Computation
 * AI Agent
+* Privacy-Preserving Computation
 
 ### 💻 **Grants**
 
