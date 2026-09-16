@@ -1,5 +1,7 @@
 ### Hi! 👋 I'm 贾林鹏 (Linpeng Jia & stormpang).
 
+> :e-mail: jialinpeng@ict.ac.cn
+
 ### 🎓 **Education**
 
 * Ph.D from Institute of Computing Technology ([ICT](http://english.ict.cas.cn/)), Chinese Academy of Sciences ([中国科学院计算技术研究所](http://www.ict.ac.cn/)) [:page_with_curl:](http://dx.doi.org/10.13140/RG.2.2.17677.35046)
