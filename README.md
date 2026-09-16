@@ -18,10 +18,13 @@
 
 ### 💻 **Grants**
 
--   PI. Multi-Chain Interoperability in Open Blockchain Networks. National Key Research and Development Program of China, 2023.12-2026.11.
--   Co-PI. Privacy Protection Mechanisms for Multi-Subject, Cross-Domain, and Multi-Source Traffic Data. National Key Research and Development Program of China, 2024.12-2027.11.
--   PI. Research on Transaction Scheduling for Blockchain Sharding Based on Distributed Cooperative Perception. National Natural Science Foundation of China, 2027.01-2029.12.
--   PI. Blockchain Transaction Processing Protocols with Deadline Constraints. Open Research Fund of The State Key Laboratory of Blockchain and Data Security (Zhejiang University), 2024.06-2026.05.
+-   National Key Research and Development Program of China
+    -   *PI. Multi-Chain Interoperability in Open Blockchain Networks. 2023.12-2026.11.*
+    -   *Co-PI. Privacy Protection Mechanisms for Multi-Subject, Cross-Domain, and Multi-Source Traffic Data. 2024.12-2027.11.*
+-   National Natural Science Foundation of China
+    -   *PI. Research on Transaction Scheduling for Blockchain Sharding Based on Distributed Cooperative Perception. 2027.01-2029.12.*
+-   Open Research Fund of The State Key Laboratory of Blockchain and Data Security (Zhejiang University)
+    -   *PI. Blockchain Transaction Processing Protocols with Deadline Constraints. 2024.07-2026.06.*
 
 ### :trophy: **Awards**
 
