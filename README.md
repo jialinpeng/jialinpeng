@@ -1,6 +1,6 @@
 ### Hi! 👋 I'm 贾林鹏 (Linpeng Jia & stormpang).
 
-> :e-mail: jialinpeng@ict.ac.cn
+> Email: jialinpeng@ict.ac.cn
 
 ### 🎓 **Education**
 
