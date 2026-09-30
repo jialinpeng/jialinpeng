@@ -36,11 +36,11 @@
 
 ### :page_with_curl: Selected Publications
 
-1. **Linpeng Jia**, Yanxiu Liu, Keyuan Wang, Yi Sun. Estuary: A Low Cross-Shard Blockchain Sharding Protocol Based on State Splitting. IEEE TPDS. 2024. 
-2. Keyuan Wang, **Linpeng Jia**, Zhaoxiong Song, Yi Sun. Mitosis: A Scalable Sharding System Featuring Multiple Dynamic Relay Chains. IEEE TPDS. 2024.
-3. Xin Wang, Yanxiu Liu, **Linpeng Jia***, Yi Sun. Levee: A Blockchain Sharding System Capable of Tolerating Faulty Shards. IEEE TC. 2026.
-4. Feng Zhuo, Yi Guo, Hanwen Zhang, Zhongcheng Li, Xin Wang, **Linpeng Jia***, Yi Sun. Chuchu: A Hashlock Group Protocol for Cross-Chain Swaps. IEEE TDSC. 2026.
-5. Yanxiu Liu, **Linpeng Jia**, Xiaohu Yang, Zhongcheng Li, Yi Sun. Concordia: Enabling Low-Conflict Distributed Transaction Scheduling in Sharding Blockchain via Cooperative Perception. WWW. 2026.
+1. **Linpeng Jia**, Yanxiu Liu, Keyuan Wang, Yi Sun. Estuary: A Low Cross-Shard Blockchain Sharding Protocol Based on State Splitting. ***IEEE TPDS***. 2024. 
+2. Keyuan Wang, **Linpeng Jia**, Zhaoxiong Song, Yi Sun. Mitosis: A Scalable Sharding System Featuring Multiple Dynamic Relay Chains. ***IEEE TPDS***. 2024.
+3. Xin Wang, Yanxiu Liu, **Linpeng Jia***, Yi Sun. Levee: A Blockchain Sharding System Capable of Tolerating Faulty Shards. ***IEEE TC***. 2026.
+4. Feng Zhuo, Yi Guo, Hanwen Zhang, Zhongcheng Li, Xin Wang, **Linpeng Jia***, Yi Sun. Chuchu: A Hashlock Group Protocol for Cross-Chain Swaps. ***IEEE TDSC***. 2026.
+5. Yanxiu Liu, **Linpeng Jia**, Xiaohu Yang, Zhongcheng Li, Yi Sun. Concordia: Enabling Low-Conflict Distributed Transaction Scheduling in Sharding Blockchain via Cooperative Perception. ***WWW***. 2026.
 
 ### :mailbox_with_mail: **Services**
 
