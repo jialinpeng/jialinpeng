@@ -34,7 +34,7 @@
 - Best Paper Award : [BlockSys’2026](https://blocksys.info/2026/)  (CCF-C, 3/190) ​[:page_facing_up:](https://arxiv.org/abs/2606.22934)​
 - Best Paper Award : [UTI’2026](https://mp.weixin.qq.com/s/GuBf08S0ehACA4jlRhTkrw)​ [:page_facing_up:](https://dl.acm.org/doi/abs/10.1145/3774904.3792469)
 
-### :page_with_curl: Selected Publications ([『Google Scholar』](https://scholar.google.com/citations?user=03jw1vAAAAAJ))
+### :page_with_curl: Selected Publications [『Google Scholar』](https://scholar.google.com/citations?user=03jw1vAAAAAJ)
 
 1. **Linpeng Jia**, Yanxiu Liu, Keyuan Wang, Yi Sun. Estuary: A Low Cross-Shard Blockchain Sharding Protocol Based on State Splitting. ***IEEE TPDS***. 2024. 
 2. Keyuan Wang, **Linpeng Jia**, Zhaoxiong Song, Yi Sun. Mitosis: A Scalable Sharding System Featuring Multiple Dynamic Relay Chains. ***IEEE TPDS***. 2024.
