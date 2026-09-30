@@ -42,6 +42,8 @@
 4. Feng Zhuo, Yi Guo, Hanwen Zhang, Zhongcheng Li, Xin Wang, **Linpeng Jia***, Yi Sun. Chuchu: A Hashlock Group Protocol for Cross-Chain Swaps. ***IEEE TDSC***. 2026.
 5. Yanxiu Liu, **Linpeng Jia**, Xiaohu Yang, Zhongcheng Li, Yi Sun. Concordia: Enabling Low-Conflict Distributed Transaction Scheduling in Sharding Blockchain via Cooperative Perception. ***WWW***. 2026.
 
+> [『](https://scholar.google.com/citations?user=03jw1vAAAAAJ)[G](https://scholar.google.com/citations?user=03jw1vAAAAAJ)[o](https://scholar.google.com/citations?user=03jw1vAAAAAJ)[o](https://scholar.google.com/citations?user=03jw1vAAAAAJ)[g](https://scholar.google.com/citations?user=03jw1vAAAAAJ)[l](https://scholar.google.com/citations?user=03jw1vAAAAAJ)[e](https://scholar.google.com/citations?user=03jw1vAAAAAJ)[ ](https://scholar.google.com/citations?user=03jw1vAAAAAJ)[Scholar](https://scholar.google.com/citations?user=03jw1vAAAAAJ)[』](https://scholar.google.com/citations?user=03jw1vAAAAAJ) 
+
 ### :mailbox_with_mail: **Services**
 
 - Youth Editorial Board Member Editor
