@@ -32,7 +32,15 @@
 
 - [2024 Distinguished Paper Award (Chinese) in the Field of Blockchain Technology in China](https://mp.weixin.qq.com/s/vv26eQJAQapmhqT_-oOwCA) (One Paper per Year, First Author) ​[:page_facing_up:](https://www.jos.org.cn/jos/article/abstract/7174)​
 - Best Paper Award : [BlockSys’2026](https://blocksys.info/2026/)  (CCF-C, 3/190) ​[:page_facing_up:](https://arxiv.org/abs/2606.22934)​
-- Best Paper Award : [UTI’2026](https://mp.weixin.qq.com/s/GuBf08S0ehACA4jlRhTkrw)​ [:page_facing_up:](https://dl.acm.org/doi/abs/10.1145/3774904.3792469)​
+- Best Paper Award : [UTI’2026](https://mp.weixin.qq.com/s/GuBf08S0ehACA4jlRhTkrw)​ [:page_facing_up:](https://dl.acm.org/doi/abs/10.1145/3774904.3792469)
+
+### :page_with_curl: Selected Publications
+
+1. **Linpeng Jia**, Yanxiu Liu, Keyuan Wang, Yi Sun. Estuary: A Low Cross-Shard Blockchain Sharding Protocol Based on State Splitting. IEEE TPDS. 2024. 
+2. Keyuan Wang, **Linpeng Jia**, Zhaoxiong Song, Yi Sun. Mitosis: A Scalable Sharding System Featuring Multiple Dynamic Relay Chains. IEEE TPDS. 2024.
+3. Xin Wang, Yanxiu Liu, **Linpeng Jia***, Yi Sun. Levee: A Blockchain Sharding System Capable of Tolerating Faulty Shards. IEEE TC. 2026.
+4. Feng Zhuo, Yi Guo, Hanwen Zhang, Zhongcheng Li, Xin Wang, **Linpeng Jia***, Yi Sun. Chuchu: A Hashlock Group Protocol for Cross-Chain Swaps. IEEE TDSC. 2026.
+5. Yanxiu Liu, **Linpeng Jia**, Xiaohu Yang, Zhongcheng Li, Yi Sun. Concordia: Enabling Low-Conflict Distributed Transaction Scheduling in Sharding Blockchain via Cooperative Perception. WWW. 2026.
 
 ### :mailbox_with_mail: **Services**
 
