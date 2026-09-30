@@ -52,7 +52,7 @@
 
   *BCRA, IEEE ICC, KSEM*
 
-- Journal Reviewer（50+ reviews for 18 publications）
+- Journal Reviewer（70+ reviews for 30+ publications）
 
   *BCRA, IEEE TC, IEEE TNET, IEEE TSC, IEEE TDSC, 计算机研究与发展*
 
