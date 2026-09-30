@@ -34,15 +34,13 @@
 - Best Paper Award : [BlockSys’2026](https://blocksys.info/2026/)  (CCF-C, 3/190) ​[:page_facing_up:](https://arxiv.org/abs/2606.22934)​
 - Best Paper Award : [UTI’2026](https://mp.weixin.qq.com/s/GuBf08S0ehACA4jlRhTkrw)​ [:page_facing_up:](https://dl.acm.org/doi/abs/10.1145/3774904.3792469)
 
-### :page_with_curl: Selected Publications
+### :page_with_curl: Selected Publications ([『Google Scholar』](https://scholar.google.com/citations?user=03jw1vAAAAAJ))
 
 1. **Linpeng Jia**, Yanxiu Liu, Keyuan Wang, Yi Sun. Estuary: A Low Cross-Shard Blockchain Sharding Protocol Based on State Splitting. ***IEEE TPDS***. 2024. 
 2. Keyuan Wang, **Linpeng Jia**, Zhaoxiong Song, Yi Sun. Mitosis: A Scalable Sharding System Featuring Multiple Dynamic Relay Chains. ***IEEE TPDS***. 2024.
 3. Xin Wang, Yanxiu Liu, **Linpeng Jia***, Yi Sun. Levee: A Blockchain Sharding System Capable of Tolerating Faulty Shards. ***IEEE TC***. 2026.
 4. Feng Zhuo, Yi Guo, Hanwen Zhang, Zhongcheng Li, Xin Wang, **Linpeng Jia***, Yi Sun. Chuchu: A Hashlock Group Protocol for Cross-Chain Swaps. ***IEEE TDSC***. 2026.
 5. Yanxiu Liu, **Linpeng Jia**, Xiaohu Yang, Zhongcheng Li, Yi Sun. Concordia: Enabling Low-Conflict Distributed Transaction Scheduling in Sharding Blockchain via Cooperative Perception. ***WWW***. 2026.
-
-> [『](https://scholar.google.com/citations?user=03jw1vAAAAAJ)[G](https://scholar.google.com/citations?user=03jw1vAAAAAJ)[o](https://scholar.google.com/citations?user=03jw1vAAAAAJ)[o](https://scholar.google.com/citations?user=03jw1vAAAAAJ)[g](https://scholar.google.com/citations?user=03jw1vAAAAAJ)[l](https://scholar.google.com/citations?user=03jw1vAAAAAJ)[e](https://scholar.google.com/citations?user=03jw1vAAAAAJ)[ ](https://scholar.google.com/citations?user=03jw1vAAAAAJ)[Scholar](https://scholar.google.com/citations?user=03jw1vAAAAAJ)[』](https://scholar.google.com/citations?user=03jw1vAAAAAJ) 
 
 ### :mailbox_with_mail: **Services**
 
@@ -61,8 +59,8 @@
 
 ### 🌐 **Links** 
 
-| [Google Scholar](https://scholar.google.com/citations?user=03jw1vAAAAAJ) | [ORCID](https://orcid.org/0000-0003-1916-6193) | [DBLP](https://dblp.org/pid/331/4224.html) | [ResearchGate](https://www.researchgate.net/profile/Linpeng-Jia) | [weibo](https://weibo.com/u/3853847834) |
-| ------------------------------------------------------------ | ---------------------------------------------- | ------------------------------------------ | ------------------------------------------------------------ | --------------------------------------- |
+| [ORCID](https://orcid.org/0000-0003-1916-6193) | [DBLP](https://dblp.org/pid/331/4224.html) | [ResearchGate](https://www.researchgate.net/profile/Linpeng-Jia) | [weibo](https://weibo.com/u/3853847834) |
+| ---------------------------------------------- | ------------------------------------------ | ------------------------------------------------------------ | --------------------------------------- |
 
 | [ICT Homepage](https://www.ict.ac.cn/sourcedb/cn/jssrck/202512/t20251208_8023729.html) | [UCAS Homepage](https://people.ucas.edu.cn/~stormpang) |
 | ------------------------------------------------------------ | ------------------------------------------------------|
