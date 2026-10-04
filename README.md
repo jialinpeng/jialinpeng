@@ -50,7 +50,7 @@
 
 - TPC Member
 
-  *BCRA, IEEE ICC, KSEM, IEEE CSCloud*
+  *BCRA, IEEE ICC, IEEE CSCloud, KSEM*
 
 - Journal Reviewer（60+ reviews for 20+ publications）
 
